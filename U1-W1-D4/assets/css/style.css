@@ -1,0 +1,89 @@
+/* IMPOSTAZIONI GENERALI */
+body{
+    width: 450px;
+    height: 5000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('../img/sfondo.png');
+    background-repeat: repeat;
+    background-origin: content-box;
+    background-size: contain;
+}
+
+/* HEADER */
+    header{
+        background-color: #A5D9FD;
+        text-align: center;
+        margin-top: 10px;
+        padding-bottom: 20px;
+        margin-left: 2px;
+    }
+
+    h1{
+        padding-top: 1em;
+        font-style: italic;
+        font-size: large;
+        color: white
+    }
+
+    nav > ul{
+        font-style: italic;
+        font-size: large;
+        color: white
+    }
+
+    #frecciaright{
+        margin-right: 10px;
+    }
+
+    #freccialeft{
+        margin-left: 10px
+    }
+/* MAIN */
+
+main{
+    margin-top: 50px;
+    background-color: white;
+    
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+h2{
+    margin-top: 1em;   
+    margin-left:20px; 
+    text-align: left;
+    font-size: 35px;
+    font-style: italic;
+    padding-top:0.4em;
+    
+}
+
+#newsingrigio{
+    padding-top: 2em;
+    margin-left: 20px;
+    color: grey;
+    font-size: 1.4em;
+}
+
+/*inizio di article */
+article{
+    padding-top: 1.4em;
+    margin-left: 20px;
+    font-size: 1.2em;
+}
+
+#hrefpurple{
+    color: purple;
+}
+
+.inarticle{
+    list-style: disc;
+    margin-left: 20px; /* Aggiunge spazio a sinistra per i puntini */
+}
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
